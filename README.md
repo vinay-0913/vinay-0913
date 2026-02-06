@@ -1,71 +1,73 @@
-<h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">Backend / Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Vinay Ratnakar</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | AI/ML Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **AI Resume Analyzer**
-- 🌱 Learning **Advanced Backend, NLP & System Design**
-- 💡 Interested in **AI, SaaS & Scalable Systems**
-- 📫 Reach me at: **yourmail@gmail.com**
+## 👨‍💻 About Me
+- 🎓 B.Tech in **Computer Science & Engineering (AI)** at **Bhilai Institute of Technology, Durg**
+- 💻 Software Engineer Intern with experience in **Full Stack Development & AI**
+- 🤖 Passionate about **AI-powered products, SaaS, and scalable systems**
+- 🧠 Strong foundation in **DSA, Backend, and Machine Learning**
+- 📍 India
+
+📫 **Email:** vinayratnakar2003@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/vinay-ratnakar  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+### Languages
+- Python, Java, JavaScript, SQL, HTML, CSS
 
-#### Backend
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+### Frontend
+- React.js, TypeScript, Tailwind CSS, Shadcn UI
 
-#### Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+### Backend
+- Node.js, Express.js, Flask
 
-#### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+### Databases
+- MongoDB, PostgreSQL, MySQL
 
----
+### Cloud & Tools
+- AWS, Docker, Git, GitHub, Postman, Linux, REST APIs, Vercel
 
-### 🚀 Featured Projects
-
-#### 🔹 AI Resume Analyzer
-- Resume vs Job Description matching using NLP
-- Keyword extraction, semantic similarity & ATS checks
-- **Tech:** Flask, NLP, React, Tailwind  
-🔗 [View Project](https://github.com/yourusername/resume-analyzer)
-
-#### 🔹 News Aggregator with Recommendations
-- Article similarity-based recommendation system
-- **Tech:** Node.js, Flask, NLP  
-🔗 [View Project](https://github.com/yourusername/news-aggregator)
+### AI / ML
+- Scikit-learn, TensorFlow, Keras, PyTorch  
+- Data Preprocessing, Feature Engineering, Model Evaluation
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
+### 🔹 Genify AI (AI SaaS Platform)
+**Tech:** React, Node.js, Express.js, Gemini LLM, Neon DB, Clerk  
+- AI-powered platform for article generation, blog titles, resume reviews & image editing
+- Reduced content creation time to **under 10 seconds**
+- Integrated secure authentication & billing with **Clerk**
+- Supported **100+ content generations**
 
----
-
-### 🔗 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/yourname
-- 🌐 Portfolio: https://yourportfolio.com
-- 📧 Email: yourmail@gmail.com
 
 ---
 
-⭐️ *Feel free to check out my repositories and give a star if you like them!*
+### 🔹 News Now (News Aggregator + Recommendation System)
+**Tech:** React, Node.js, Flask, Scikit-learn  
+- Aggregates **500+ news articles daily** using REST APIs
+- Built recommendation system using **TF-IDF & Cosine Similarity**
+- Improved user engagement by **30%**
 
+
+---
+
+### 🔹 E-commerce Web Application
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Full-stack platform supporting **50+ local stores**
+- Implemented authentication, payments, admin & user dashboards
+- Reduced admin update effort by **30%**
+
+
+---
+
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
