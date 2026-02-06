@@ -7,8 +7,7 @@
 - 🎓 B.Tech in **Computer Science & Engineering (AI)** at **Bhilai Institute of Technology, Durg**
 - 💻 Software Engineer Intern with experience in **Full Stack Development & AI**
 - 🤖 Passionate about **AI-powered products, SaaS, and scalable systems**
-- 🧠 Strong foundation in **DSA, Backend, and Machine Learning**
-- 📍 India
+- 🧠 Strong foundation in **DSA, Frontend, Backend, and Machine Learning**
 
 📫 **Email:** vinayratnakar2003@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/vinay-ratnakar  
