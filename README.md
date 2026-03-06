@@ -49,7 +49,14 @@
 
 
 ---
+### 🔹 Easy Jobs
+**Tech:** React, Node.js, Express.js, JSearch API, Clerk, MongoDB
+- Built a job aggregation platform that fetches job listings across the web, providing a unified job search experience.
+- Developed a personalized job matching engine to generate match scores for each job based on user preferences.
+- Implemented a job tracking system enabling users to save, monitor application status, and manage their job pipeline
+through a centralized dashboard
 
+---
 ### 🔹 News Now (News Aggregator + Recommendation System)
 **Tech:** React, Node.js, Flask, Scikit-learn  
 - Aggregates **500+ news articles daily** using REST APIs
