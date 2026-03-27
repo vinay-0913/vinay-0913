@@ -49,6 +49,17 @@
 
 
 ---
+### 🔹 Interview Mentor AI
+**Tech:** React.js, Node.js, Express.js, Gemini LLM, Clerk, Atlas DB 
+- Built and deployed an AI-powered interview platform integrating Gemini API to generate real-time adaptive questions and
+feedback, improving interview practice experience.
+-  Tailored Gemini API prompts for DSA, HR, and behavioral modes to deliver mode-specific questions and personalized,
+context-aware feedback.
+- Implemented secure authentication and scalable data storage to manage user sessions and track progress across multiple
+interview types.
+
+  
+---
 ### 🔹 Easy Jobs
 **Tech:** React, Node.js, Express.js, JSearch API, Clerk, MongoDB
 - Built a job aggregation platform that fetches job listings across the web, providing a unified job search experience.
