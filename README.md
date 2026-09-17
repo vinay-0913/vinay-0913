@@ -40,12 +40,14 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Genify AI (AI SaaS Platform)
-**Tech:** React, Node.js, Express.js, Gemini LLM, Neon DB, Clerk  
-- AI-powered platform for article generation, blog titles, resume reviews & image editing
-- Reduced content creation time to **under 10 seconds**
-- Integrated secure authentication & billing with **Clerk**
-- Supported **100+ content generations**
+### 🔹 Instaqrcode.com
+**Tech:** Next.js, React, TypeScript, Node.js, MongoDB, Razorpay SDK, Google OAuth, JWT
+- Developed a full-stack QR Code Generator SaaS leveraging MongoDB to securely store user accounts, custom QR designs,
+and real-time scan metrics.
+- Integrated Google OAuth authentication and the Razorpay Node.js SDK for live subscription processing, automating
+premium feature access and dynamic QR limits.
+- Engineered an interactive analytics dashboard capturing and visualizing scan data via custom URL redirect handlers.
+
 
 
 ---
@@ -60,12 +62,13 @@ interview types.
 
   
 ---
-### 🔹 Easy Jobs
-**Tech:** React, Node.js, Express.js, JSearch API, Clerk, MongoDB
-- Built a job aggregation platform that fetches job listings across the web, providing a unified job search experience.
-- Developed a personalized job matching engine to generate match scores for each job based on user preferences.
-- Implemented a job tracking system enabling users to save, monitor application status, and manage their job pipeline
-through a centralized dashboard
+### 🔹 Jobs Hive
+**Tech:** React, Vite, Tailwind CSS, Supabase, Python, GitHub Actions 
+- Built a job aggregation platform that scrapes tech job listing from 30+ ATS platforms using custom Python scrapers,
+storing them in a Supabase (PostgreSQL).
+- Engineered a real-time search and filtering, achieving sub-200ms query responses through optimized Supabase queries.
+- Architected an automated Python ETL pipeline across 20+ sources, cutting storage bloat by 80% and eliminating OOM
+crashes on 400MB+ datasets via chunked stream processing.
 
 ---
 ### 🔹 News Now (News Aggregator + Recommendation System)
@@ -73,15 +76,6 @@ through a centralized dashboard
 - Aggregates **500+ news articles daily** using REST APIs
 - Built recommendation system using **TF-IDF & Cosine Similarity**
 - Improved user engagement by **30%**
-
-
----
-
-### 🔹 E-commerce Web Application
-**Tech:** MongoDB, Express.js, React.js, Node.js  
-- Full-stack platform supporting **50+ local stores**
-- Implemented authentication, payments, admin & user dashboards
-- Reduced admin update effort by **30%**
 
 
 ---
